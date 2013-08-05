@@ -12,6 +12,6 @@
       {"radio_id":"9", "name":"j-pop k-pop", "http://asia.freestylefm.org/listen/freestyleasia.m3u", "img_url":""}
       {"radio_id":"10", "name":"Rap", "http://listen.radionomy.com/a-rap-fm-web.m3u", "img_url":""}
       {"radio_id":"11", "name":"Disco RnB/Soul", "http://listen.radionomy.com/a-disco-fm-web.m3u", "img_url":""}
-      {"radio_id":"11", "name":"70's retro", "http://www.sky.fm/mp3/itunes/hit70s.pls", "img_url":""}
+      {"radio_id":"12", "name":"70's retro", "http://www.sky.fm/mp3/itunes/hit70s.pls", "img_url":""}
 	]
 }
